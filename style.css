@@ -1,0 +1,9 @@
+.active-rotate {
+  transform: rotate(-180deg);
+}
+
+.fixed-scroll {
+  position: fixed;
+  top: 0; 
+  right: 40px;
+}
